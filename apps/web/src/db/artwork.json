@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "fileName": "3- melodie.jpg",
+    "title": "La Mélodie Acide XIII",
+    "dimensions": "45.7 x 38.1 cm (Sheet)",
+    "estimatedPrice": "$1,500 - $2,500",
+    "story": "Created by Joan Miró in 1980, this lithograph is part of the 'La Mélodie Acide' suite. The series is celebrated for its 'acidic' colors and whimsical, rhythmic lines. Miró uses a single central form to provide a 'leading tone' for the composition, balancing surrealist abstraction with playful, melodic scribbles and bold black swabs."
+  },
+  {
+    "id": 2,
+    "fileName": "13-melodie.jpg",
+    "title": "La Mélodie Acide (Plate Untitled)",
+    "dimensions": "33 x 25.4 cm (Image)",
+    "estimatedPrice": "$1,200 - $2,000",
+    "story": "Another vibrant entry from Miró's 1980 portfolio. This piece highlights the artist's fascination with 'automatic' drawing, where shapes seem to grow organically across the page. The contrast between the rigid geometry and the delicate pencil curls represents the balance between order and chaos common in Miró's late-career graphic works."
+  },
+  {
+    "id": 3,
+    "fileName": "4- linocut.jpg",
+    "title": "Picador and Bull (Red and Yellow)",
+    "dimensions": "53 x 64 cm",
+    "estimatedPrice": "$5,000 - $10,000",
+    "story": "This 1959 linocut by Pablo Picasso utilizes his revolutionary 'reduction' technique, where a single block of linoleum is carved and printed multiple times to layer colors. The high-contrast red and yellow capture the intense heat and blood of the Spanish bullring, a theme Picasso returned to throughout his life to explore tragedy and masculinity."
+  },
+  {
+    "id": 4,
+    "fileName": "6- linocut.jpg",
+    "title": "Picador et Taureau",
+    "dimensions": "53 x 64 cm",
+    "estimatedPrice": "$4,000 - $8,000",
+    "story": "A classic example of Picasso’s bullfighting series. In this version, the earthy tones emphasize the dust and tradition of the 'corrida.' Picasso’s linocuts from this era are prized for their gestural energy, where he used a gouge to 'draw' directly into the linoleum, creating a raw, primitive power in the line work."
+  },
+  {
+    "id": 5,
+    "fileName": "15- linocut.jpg",
+    "title": "Le Picador Gored",
+    "dimensions": "27 x 32.5 cm",
+    "estimatedPrice": "$3,500 - $7,000",
+    "story": "Dated 13.10.59 in the plate (reversed, as is common in printmaking), this blue-grey linocut depicts the moment of impact between bull and horse. Picasso often used the horse as a symbol of suffering or innocence. The swirling, chaotic lines represent the 'Mistral' wind and the frantic movement of the arena."
+  },
+  {
+    "id": 6,
+    "fileName": "27- linocut.jpg",
+    "title": "Bacchanale avec Chevreau et Spectateur",
+    "dimensions": "53 x 64 cm",
+    "estimatedPrice": "$12,000 - $20,000",
+    "story": "This 1959 linocut depicts a 'Bacchanal,' a scene of mythical celebration. Picasso features frolicking dancers and a kid goat (a favorite motif) under a bright Provençal sky. The blue sky and green hills reflect his life in the south of France, where he found joy in Mediterranean mythology and pastoral life."
+  },
+  {
+    "id": 7,
+    "fileName": "1-toros en el campo.jpg",
+    "title": "Toros en el Campo (Bulls in the Field)",
+    "dimensions": "29.5 x 42 cm (Sheet)",
+    "estimatedPrice": "$2,500 - $4,500",
+    "story": "An aquatint from the 1959 'La Tauromaquia' series. Picasso illustrates the bulls in their natural habitat before the fight. Using a wash-like technique, he captures the stillness of the Spanish countryside, contrasting the eventual violence of the ring with the quiet dignity of the animals in the field."
+  },
+  {
+    "id": 8,
+    "fileName": "2- a los toros.jpg",
+    "title": "A los Toros (To the Bulls)",
+    "dimensions": "24.5 x 32 cm",
+    "estimatedPrice": "$1,500 - $3,000",
+    "story": "Part of a 1961 lithographic suite, this piece shows the crowd and the architectural silhouette of the bullring. Picasso focuses on the spectacle as a cultural ritual, using quick, staccato marks to represent the gathering masses and the movement of carriages arriving at the arena."
+  },
+  {
+    "id": 9,
+    "fileName": "26- Salto con la garrocha.png",
+    "title": "Salto con la Garrocha (The Pole Vault)",
+    "dimensions": "29.5 x 42 cm",
+    "estimatedPrice": "$3,000 - $5,000",
+    "story": "This dynamic aquatint depicts a daring 'suerte' or maneuver where a bullfighter leaps over the bull using a pole. Picasso’s use of negative space emphasizes the height of the jump and the singular focus of the performer, turning a moment of extreme physical danger into a graceful, almost balletic composition."
+  }
+]

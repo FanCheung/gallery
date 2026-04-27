@@ -10,11 +10,8 @@ View your app in AI Studio: https://ai.studio/apps/cfa9c605-e7c1-4319-8efc-b60b5
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  [Bun](https://bun.sh) (recommended) and Node.js-compatible tooling as needed
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Install dependencies from the repository root: `bun install`
+2. Set `GEMINI_API_KEY` in [apps/web/.env.local](apps/web/.env.local) (or copy from `apps/web/.env.example`)
+3. Run the app: `bun run dev` (serves the Vite app in [apps/web](apps/web) on port 3000)

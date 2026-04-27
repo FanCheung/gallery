@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "fileName": "5- El toro sale del toril.png",
+    "title": "The Ring Opens: La Tauromaquia in Print",
+    "period": "June 15 – June 20, 2026",
+    "location": "Basel, Switzerland",
+    "kind": "upcoming",
+    "story": "A focused presentation of Picasso’s 1959 aquatint suite, from the first charge of the bull to the final passes. The gallery pairs the series with select Miró works on paper for a dialogue between Mediterranean line and the ritual geometry of the corrida."
+  },
+  {
+    "id": 2,
+    "fileName": "3- paseo de cuadrillas.png",
+    "title": "Paseo: Procession and Pageantry",
+    "period": "September 5 – October 30, 2026",
+    "location": "New York",
+    "kind": "upcoming",
+    "story": "Large-format prints and portfolio pieces centered on the ‘paseo’—the slow parade that opens the fight—exploring color, crowd, and architecture as performance before the first cape."
+  },
+  {
+    "id": 3,
+    "fileName": "7- Toreando a la verónica.png",
+    "title": "Masters in Motion: Verónicas and Capotes",
+    "period": "2025",
+    "location": "London",
+    "kind": "past",
+    "story": "An exhibition of classic tauromaquia images tracing the muleta and cape work that defined the graphic record of the ring in the 1950s and 60s."
+  },
+  {
+    "id": 4,
+    "fileName": "8- los cabestros retiran al toro manso.png",
+    "title": "Field and Herd: Bulls Before the Fight",
+    "period": "2025",
+    "location": "Tokyo",
+    "kind": "past",
+    "story": "Works drawn from the countryside suite—toros in the field, herding, and the quiet before the arena—contrasting pastoral calm with the later drama of the plaza."
+  },
+  {
+    "id": 5,
+    "fileName": "12- melodie.png",
+    "title": "La Mélodie Acide: Color and Line",
+    "period": "2024",
+    "location": "Paris",
+    "kind": "past",
+    "story": "A salon-style hang of Miró’s 1980 lithographs, celebrating acidic palettes and the rhythmic, calligraphic line that turned musical metaphor into print."
+  },
+  {
+    "id": 6,
+    "fileName": "1-linocut 1962.png",
+    "title": "Linocut 1962: Red, Yellow, and Black",
+    "period": "2024",
+    "location": "New York",
+    "kind": "past",
+    "story": "A concise survey of Picasso’s reduction linocuts from the early 1960s, with emphasis on bold planes of color and the physical gouge as drawing instrument."
+  }
+]

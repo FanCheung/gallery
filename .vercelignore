@@ -1,0 +1,8 @@
+tif/
+**/*.tif
+node_modules
+apps/**/dist
+.env
+.env.*
+!.env.example
+!**/.env.example
